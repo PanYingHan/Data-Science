@@ -42,5 +42,3 @@ plt.tight_layout()
 plt.show()
 
 
-# 執行前請先執行：source venv/bin/activate 進入虛擬環境
-# 再執行：python analysis2.py
