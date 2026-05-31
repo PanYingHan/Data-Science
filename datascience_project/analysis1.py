@@ -47,6 +47,3 @@ plt.show()
 
 print("薪資由低到高：")
 print(avg_salary)
-
-# 執行前請先執行：source venv/bin/activate 進入虛擬環境
-# 再執行：python analysis1.py
