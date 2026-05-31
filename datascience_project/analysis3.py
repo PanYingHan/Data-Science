@@ -84,7 +84,3 @@ for job in job_categories:
 
     plt.savefig(save_path, dpi=300, bbox_inches="tight")
     plt.close()
-
-
-# 執行前請先執行：source venv/bin/activate 進入虛擬環境
-# 再執行：python analysis3.py
